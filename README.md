@@ -14,6 +14,7 @@ Conheça alguns comandos importantes do Git.
 * **git push** - Envia o repositório local para a nuvem
 * **git pull** - Recebe repositório da nuvem para o sistema local
 * **git clone** - Clona um projeto
+* **git rebase** - Rebasing é o processo de mover ou combinar uma sequência de commits para um novo commit base
 
 ___
 
